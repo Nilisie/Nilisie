@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nilisie</h1>
-<h3 align="center">A software developer in training</h3>
+<h1 align="center">Hi 👋, I'm Frederika</h1>
+<h3 align="center">A junior software developer</h3>
 
-- 🔭 I’m currently working on **finishing Green Fox Academy**
-
-- 🌱 I’m currently learning **Java**
-
-- 🤝 I’m looking for a new job opportunity in software development
-
-- 💬 Ask me about **anything**
+- 🔭 I’m currently working in **ServiceNow Platform**
 
 - 📫 How to reach me **frederika.hornakova@gmail.com**
 
