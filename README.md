@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Frederika</h1>
-<h3 align="center">A junior software developer</h3>
 
 - 🔭 I’m currently working in **ServiceNow Platform**
 
